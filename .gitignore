@@ -1,0 +1,11 @@
+.env
+*.pcap
+*.pcapng
+*.pfx
+*.pem
+*.key
+credentials*
+secrets*
+exports/
+images/raw/
+private-notes/
